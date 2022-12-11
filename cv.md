@@ -2,10 +2,12 @@
 
 
 
+
 ## Contacts:
 ***Discord:*** Xenia (Xenia80)
 
 ***Phone number:*** +7 (964) 853-67-64
+
 
 
 
@@ -22,11 +24,13 @@ And now i am here, trying to learn frontend.
 
 
 
+
 ## Skills:
 * Git
 * C (programming language)
 * Java (beginning stage)
 * Algorithms
+
 
 
 
@@ -60,6 +64,7 @@ int	ft_memcmp(const void *s1, const void *s2, size_t n)
 
 
 
+
 ## Experience:
 I don't have any relevant experience yet.
 
@@ -69,11 +74,13 @@ But i have a lot of projects from studies on C. For example:
 
 
 
+
 ## Education:
 - Economy University
 - Puclic procurement (advanced training courses)
 - SMM and copywriting
 - School 21
+
 
 
 
